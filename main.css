@@ -1,0 +1,19 @@
+.Service{
+    width: 50%;
+    text-align: center;
+
+}
+
+    p{ 
+        color:#6c757d;
+    }
+.Serv{
+ display:inline-block;
+ width: 20%;
+ height: 100px;
+
+}
+i{
+    color: rgb(244, 98, 58);
+
+}
